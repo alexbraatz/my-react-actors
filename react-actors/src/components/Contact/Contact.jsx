@@ -21,9 +21,7 @@ function Contact(){
     let isInputed = () => {
     
         if ( fname && lname && impression ) {
-            console.log( fname, lname, impression );
             setMessage( `${fname} ${lname}'s best impression is ${impression}`);
-            console.log( message );
         }
     }
 
