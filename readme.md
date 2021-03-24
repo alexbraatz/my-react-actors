@@ -11,4 +11,4 @@ Techncologies used:
     - HTML
     - Node JS
 
-The goal of this project was to build a new react application from scratch within a new repository. The app contains a simple About, Contact, Header, and Footer components that imported into App.js and are rendered to the DOM.
+The goal of this project was to build a new react application from scratch within a new repository. The app contains a simple About, Contact, Header, and Footer components that are imported into App.js and then rendered to the DOM.
